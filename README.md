@@ -1,5 +1,5 @@
-# Final-Project-GUI
-The GUI Window is built using Python's PyQt5 module, and PyCharm IDE
+# GUI Window for Mouse Functionalities
+The GUI Window is built using Python's PyQt5 module, and PyCharm IDE. Each of the button's corresponding functionalities are to be mapped to them later.
 
 ## 'main' file
 Initially, a blank window is displayed along with a Status window/Informative window.
